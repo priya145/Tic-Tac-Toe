@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-Game using CSS,html and javascript
+Game developed using HTML,CSS and JS.
